@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data files (large)
+*.csv
+*.parquet
+*.feather
+*.h5
+*.hdf5
+!**/sample_*.csv
+
+# Models
+*.pkl
+*.joblib
+*.model
+
+# Reports output (keep figures directory structure but not generated files)
+reports/figures/*.png
+reports/figures/*.jpg
+reports/figures/*.svg
+reports/*.csv
+reports/*.html
+
+# Environment
+.env
+.env.local
+*.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Streamlit
+.streamlit/secrets.toml
