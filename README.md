@@ -141,4 +141,4 @@ streamlit run app.py        # launches interactive dashboard
 
 These projects were completed as part of the **MIT Applied Data Science Program**. Each achieved a perfect score and has been extended here into production-ready code with modular architecture, interactive frontends, and comprehensive documentation.
 
-> **Rajan** — Data Scientist / AI Engineer
+> **Rajan**
